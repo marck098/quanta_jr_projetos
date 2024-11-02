@@ -58,9 +58,3 @@ if prediction == 0:
 else:
         st.title(f"Há indicios de diabetes,Resultado da Análise:, {prediction}.")
         
-
-
-'''def main():
-    
-if __name__ == '__main__':
-    main()'''
